@@ -15,3 +15,9 @@
  ```
 
 ![](https://github.com/DiegoJm10/INVESTIGACION/blob/main/nodemcu-esp32.jpg?raw=true)
+
+
+### Desarrollado por 
+Ing. Diego Jasso Miranda
+
+[GitHub](https://github.com/DiegoJm10)
